@@ -1,7 +1,7 @@
 # wizard to provide a shadow to your div
 
 
-`npm i textwizard --save`
+`npm i testwizard --save`
 
 # Options 
 
