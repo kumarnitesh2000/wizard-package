@@ -1,6 +1,6 @@
 {
   "name": "testwizard",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Add Awesome card like shadows",
   "main": "index.js",
   "scripts": {
