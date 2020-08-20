@@ -16,4 +16,4 @@ function wizard(options){
 
 
 }
-module.exports = wizard ;
+module.exports.wizard = wizard ;
