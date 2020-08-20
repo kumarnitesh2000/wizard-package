@@ -16,3 +16,4 @@ function wizard(options){
 
 
 }
+module.exports = wizard ;
