@@ -1,0 +1,19 @@
+{
+  "name": "testwizard",
+  "version": "1.0.0",
+  "description": "Add Awesome card like shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/kumarnitesh2000/wizard-package.git)"
+  },
+  "keywords": [
+    "frontend",
+    "css"
+  ],
+  "author": "nitesh",
+  "license": "ISC"
+}
